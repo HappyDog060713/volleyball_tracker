@@ -1,0 +1,12 @@
+/volleyball_tracker_node:
+  ros__parameters:
+    q_pos: 0.02
+    q_vel: 0.5
+    r_pos: 0.04
+    gate_thresh: 4.0
+    court_x_min: -4.5
+    court_x_max: 4.5
+    court_y_min: 0.0
+    court_y_max: 18.0
+    target_interception_z: 0.8
+    frame_id: "camera_stereo_link"
