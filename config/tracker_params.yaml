@@ -9,4 +9,8 @@
     court_y_min: 0.0
     court_y_max: 18.0
     target_interception_z: 0.8
-    frame_id: "camera_stereo_link"
+    tracking_frame: "base_link"
+    cam_mount_x: 0.3
+    cam_mount_y: 0.0
+    cam_mount_z: 0.8
+    cam_pitch_deg: 10.0
